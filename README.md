@@ -1,5 +1,7 @@
 # Riksarkivet Scraper
-Scrapes riksarkivet for information on historical people
+Scrapes riksarkivet for information on historical people from https://sok.riksarkivet.se/person
+
+Makes it easier to see all the results for a person without having to click through everything.
 
 ## Requirements
 
